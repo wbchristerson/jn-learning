@@ -1,0 +1,2 @@
+z-score,corr thresholds,corr selection method,total sr,in-sample sr,out-sample sr
+"(1.0, 10.0)","(0.9, 0.8)",CorrSelectionMethod.MAX_CORR,-0.6459260779267941,-1.6229778432776298,0.8496431824654427
